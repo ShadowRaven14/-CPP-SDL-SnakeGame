@@ -1,0 +1,2 @@
+C:\Users\Admin\source\repos\Ostateczny Snake C++ - Projekt KCK\Debug\Snake C++ - Console.exe
+C:\Users\Admin\source\repos\Snake C++ - Projekt KCK\Debug\Ostateczny Snake C++ - Projekt KCK.exe

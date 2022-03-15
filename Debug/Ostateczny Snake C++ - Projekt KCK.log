@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Snake C++ - Console.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Ostateczny Snake C++ - Projekt KCK.cpp
+C:\Users\Admin\source\repos\Snake C++ - Projekt KCK\stdafx.h(17,1): warning C4005: 'STRICT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(23): message : see previous definition of 'STRICT'
+C:\Users\Admin\source\repos\Snake C++ - Projekt KCK\Ostateczny Snake C++ - Projekt KCK.cpp(187,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\Snake C++ - Projekt KCK\Ostateczny Snake C++ - Projekt KCK.cpp(294,21): warning C4018: '<': signed/unsigned mismatch
+  LINK : C:\Users\Admin\source\repos\Snake C++ - Projekt KCK\Debug\Ostateczny Snake C++ - Projekt KCK.exe not found or not built by the last incremental link; performing full link
+  Ostateczny Snake C++ - Projekt KCK.vcxproj -> C:\Users\Admin\source\repos\Snake C++ - Projekt KCK\Debug\Ostateczny Snake C++ - Projekt KCK.exe
